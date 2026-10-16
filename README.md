@@ -6,7 +6,7 @@
 
 How to use Corex-Aria-img Desktop
 
-virus total.
+virus total analyse
 link -> https://www.virustotal.com/gui/file/27ef93dbdf6d65fa50b2e1d0a180d8eb408a948c3668e81aac8abc046e3ca6d6?nocache=1
 
 ## Prerequisites
