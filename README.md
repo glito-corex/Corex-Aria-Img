@@ -1,3 +1,20 @@
-Corex-Aria-Img desktop app
-# Corex-Aria-Img
-<img width="1714" height="988" alt="edited_content_warning" src="https://github.com/user-attachments/assets/91319ca6-7214-4349-a4ae-9bc991af1adb" /> <img width="1714" height="988" alt="image_2cfb85-modifie-limage-et-fait-un-rond-qui-entour-warn-et" src="https://github.com/user-attachments/assets/c40b0724-5dee-4015-83e8-f89fb69f8c1d" />  <img width="1714" height="500" alt="image_annotated" src="https://github.com/user-attachments/assets/19b9608b-5c0a-40e3-b002-2400eac46b37" />  <img width="1714" height="988" alt="image_modifiee" src="https://github.com/user-attachments/assets/daf44ee8-645d-458b-a8e7-f139a09f45a8" />  <img width="1714" height="988" alt="image_annotee" src="https://github.com/user-attachments/assets/d44ca3f7-ad45-4806-a8c8-0e789b7f5ac8" />  <img width="1716" height="986" alt="image_annotee2" src="https://github.com/user-attachments/assets/dbd45f5b-b25c-4920-85ea-b782df8688c0" />
+# Corex-Aria-img
+
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
+![Platform](https://img.shields.io/badge/platform-Desktop-lightgrey?style=flat-square)
+
+How to use Corex-Aria-img Desktop
+
+## Prerequisites
+Before you start, you need to install Node.js.
+
+Link -> https://nodejs.org/
+
+## Installation, Usage & Build
+
+```bash
+npm install electron
+npm start
+npm install --save-dev electron-builder
+npm run build
